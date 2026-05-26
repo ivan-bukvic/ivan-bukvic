@@ -36,7 +36,7 @@ Luxury beauty booking platform focused on premium UX and conversion-oriented fro
 
 ## Portfolio
 
-https://ivan-no-code.lovable.app/
+https://ivan-saas-developer.lovable.app/
 
 ## GitHub Focus
 
