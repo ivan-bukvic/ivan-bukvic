@@ -1,43 +1,59 @@
 # Ivan Bukvic
 
-AI SaaS Developer building modern startup products, workflow systems, and automation platforms.
+Frontend Developer with 3 years of experience building AI-powered SaaS products, workflow automation platforms, and data-driven dashboards. I work with modern React stacks to turn complex product specs into polished, functional interfaces.
 
-## Focus Areas
-
-- AI SaaS applications
-- Workflow automation
-- Product-focused development
-- Analytics dashboards
-- Supabase architecture
-- Rapid MVP execution
+---
 
 ## Tech Stack
 
-- React
-- TypeScript
-- Supabase
-- PostgreSQL
-- OpenAI API
-- Tailwind CSS
+**Frontend:** React · TypeScript · Tailwind CSS · shadcn/ui · Vite  
+**Backend & Auth:** Supabase · PostgreSQL  
+**APIs:** OpenAI API  
+**Tooling:** GitHub · Vercel · Lovable
+
+---
 
 ## Featured Projects
 
-### FlowOps
-Multi-tenant SaaS automation platform with event-driven workflows, AI-powered document processing, and real-time integrations.
+### Optilium — AI Trucking Dispatch Platform
+Frontend for a real-world logistics SaaS built for a dispatch agency. Includes a real-time Command Center with Fleet ELD monitoring, driver status tracking, smart load matching recommendations, and an Action Priority Board for managing broker negotiations.  
+**Stack:** React · TypeScript · Tailwind · Supabase  
+🔗 [optiliumapp.synidox.com](https://optiliumapp.synidox.com)
 
-### Wellora
-AI-powered behavioral analytics platform focused on real-time insights and structured data visualization.
+---
 
-### Savio
-AI-powered fintech SaaS platform with analytics dashboards and subscription billing systems.
+### FlowOps — Workflow Automation Platform
+Multi-tenant SaaS for event-driven workflow automation with AI-powered document processing, analytics dashboards, and real-time integrations. Fully functional and live.  
+**Stack:** React · TypeScript · Supabase · OpenAI API  
+🔗 [flowops.synidox.com](https://flowops.synidox.com)
 
-### Maison Belle
-Luxury beauty booking platform focused on premium UX and conversion-oriented frontend design.
+---
+
+### Wellora — Behavioral Wellness Tracker
+AI-assisted platform for gentle activity and rest tracking with pattern visualization and personalized insights.  
+**Stack:** React · TypeScript · Supabase  
+🔗 [wellora.synidox.com](https://wellora.synidox.com)
+
+---
+
+### Savio — Personal Finance SaaS
+AI-powered fintech platform with budgeting tools, savings tracking, analytics dashboards, and subscription management.  
+**Stack:** React · TypeScript · Supabase  
+🔗 [savio.synidox.com](https://savio.synidox.com)
+
+---
+
+### Maison Belle — Luxury Beauty Booking
+Premium booking platform for beauty services with conversion-focused UX, scheduling flows, and a luxury aesthetic.  
+**Stack:** React · TypeScript · Supabase  
+🔗 [maison-belle.synidox.com](https://maison-belle.synidox.com)
+
+---
 
 ## Portfolio
 
-https://ivan-saas-developer.lovable.app/
+[ivan-saas-developer.lovable.app](https://ivan-saas-developer.lovable.app/)
 
-## GitHub Focus
+---
 
-Building real-world SaaS products, automation systems, and scalable startup applications.
+*Open to frontend and full-stack roles on product-focused teams.*
